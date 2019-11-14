@@ -2,6 +2,6 @@ body {
     font-family: Monospaced, monospace;
     background-color: darkorange;
     background-image: url("chainlink/png-seamless-chainlink-fence.png");
-    font-size: x-large;
+    font-size: large;
     text-align: center;
 }
